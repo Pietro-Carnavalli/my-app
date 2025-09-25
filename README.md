@@ -38,4 +38,4 @@ Durante o desenvolvimento deste projeto, aprendi e pratiquei os seguintes concei
 ---
 
 Feito com 💻 por [Pietro Carnavalli](https://github.com/Pietro-Carnavalli)
-reate-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
